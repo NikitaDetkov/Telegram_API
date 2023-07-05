@@ -1,0 +1,141 @@
+.bot_menu {
+    margin-top: 8rem;
+    margin-bottom: 5rem;
+}
+
+.add_elem_form {
+    margin-top: 3rem;
+}
+
+.header_ {
+    padding: 0;
+    margin-top: 8rem;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0;
+    transition: 0.7s opacity;
+    width: max-content;
+}
+
+.header_text:hover,
+.header_text {
+    text-decoration: inherit;
+    font-weight: 100;
+    font-size: 2.5rem;
+    color: black;
+}
+
+.icon_delete {
+    opacity: 0.7;
+    border: 0;
+    padding: 0 !important;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 1rem;
+}
+
+.icon_delete:hover {
+    opacity: 1;   
+}
+
+.icon_delete_img {
+    width: 2rem;
+    height: 2rem;
+}
+
+.inf_api {
+    font-size: 0.9rem;
+}
+
+.elem_inf_api {
+    margin-bottom: 1.35rem;
+}
+
+.header_inf_api {
+    margin-bottom: 1rem;
+}
+
+.messager_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.telegram_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_elem {
+    width: 20rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.form_elem_buttons {
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.header_messager {
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+}
+
+.text_left {
+    text-align: left;
+    width: 100%;
+}
+
+.content_left {
+    justify-content: left;
+}
+
+.elem_form {
+    margin: 0;
+}
+
+.list_input {
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.btn_transparent {
+    opacity: 0.7;
+    border: 0;
+    transition: ease-out 0.2s opacity;
+}
+
+.btn_transparent:hover,
+.btn_transparent:active {
+    opacity: 1;
+    border: 0;
+    cursor: pointer;
+}
+
+.width_9 {
+    width: 9rem;
+}
+
+.border_vertical {
+    width: 0;
+    padding: 0;
+    margin: 0;
+    border-left: 1px black solid;
+    opacity: 0.5;
+}
+
+.container_text_logo {
+    justify-content: left;
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+
+.input_file {
+	opacity: 0;
+	width: 0;
+    height: 0;
+	position: absolute;
+	z-index: -1;
+}
+

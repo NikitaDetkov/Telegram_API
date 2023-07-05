@@ -1,0 +1,26 @@
+.menu {
+    margin-top: 10rem;
+}
+
+.menu_elem {
+    opacity: 0.9;
+    text-decoration: none;
+    transition: ease-in 0.15s opacity;
+}
+
+.menu_elem:hover {
+    opacity: 1;
+}
+
+.menu_elem_img {
+    height: 10rem;
+}
+
+.menu_elem_text {
+    color: black;
+    font-size: 1.1rem;
+    border-bottom: 0;
+}
+
+
+ 

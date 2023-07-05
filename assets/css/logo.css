@@ -1,0 +1,21 @@
+.logo {
+    display: flex;
+    justify-content: left;
+    
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.text_logo {
+    font-weight: 400;
+    font-size: 2rem;
+    color:black;
+    background-color:white;
+    border: 0;
+    border-radius: 15px;
+    padding: 6px 12px; 
+}
+
+.icon_logo {
+    height: 60px;
+}

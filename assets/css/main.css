@@ -1,0 +1,34 @@
+.flex {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.flex_column {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.height_100 {
+    height: 100vh;
+}
+
+.grow_1 {
+    flex-grow: 1;
+}
+
+.grow_0 {
+    flex-grow: 0;
+}
+
+.center {
+    justify-content: center;
+    text-align: center;
+}
+
+
